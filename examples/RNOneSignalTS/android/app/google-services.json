@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962334377422",
+    "project_id": "dieuhanhvp2022",
+    "storage_bucket": "dieuhanhvp2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962334377422:android:9bf641afbd4a89bfdf179f",
+        "android_client_info": {
+          "package_name": "com.dieuhanhvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962334377422-bidfillu37gmk7dokh8o8h4c5qen2kv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEq9OooZQgQfAMnGwfqqzK5sdx8YDuQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962334377422-bidfillu37gmk7dokh8o8h4c5qen2kv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
